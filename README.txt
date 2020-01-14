@@ -1,8 +1,4 @@
-COL106 Assignment 1
-  Gaurav Chauhan 
-   2018CS50406
-
-In this assignment there are 7 interface's .
+There are 7 interface's .
 The following are the interfaces and the classes which implement them:-
 1)Position_ implemented by Pos 
 2)LinkedList_ implemented by LinkedL
